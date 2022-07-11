@@ -16,6 +16,6 @@ Program requests numbers from user that represent three vectors, A, B, and C. Pr
 
 Requires an environment for running a matlab script. Run the script and respond to prompts with either integer or decimal numbers to fill each index of each vector. Results will print once each index has been filled. The following is an example:
 
-!([http://url/to/img.png](https://github.com/altheaHicks/Vector-Calculator/blob/main/example.jpg)
+!![image](https://user-images.githubusercontent.com/98712154/178359721-9588bfe5-6662-409b-b36c-8f29d4f2c8e0.png)
 
 
