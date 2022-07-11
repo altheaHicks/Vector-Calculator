@@ -3,7 +3,7 @@ Simple matlab program that makes calculations on three vectors
 
 ## Description
 
-Program requests numbers from user that represent three vectors, A, B, and C. Program then calculates the following and prints results to screen:
+Program requests numbers from user that represent three vectors, a, b, and c. Program then calculates the following and prints results to screen:
 
 - dot products
 - cross products
