@@ -5,12 +5,12 @@ Simple matlab program that makes calculations on three vectors
 
 Program requests numbers from user that represent three vectors, A, B, and C. Program then calculates the following and prints results to screen:
 
--dot products
--cross products
--area of parallelogram
--area of triangle
--scalar triple product
--whether the vectors lie on the same plane
+- dot products
+- cross products
+- area of parallelogram
+- area of triangle
+- scalar triple product
+- whether the vectors lie on the same plane
 
 ## Usage
 
