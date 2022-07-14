@@ -17,6 +17,3 @@ Program requests numbers from user that represent three vectors, a, b, and c. Pr
 Requires an environment for running a matlab script. Run the script and respond to prompts with either integer or decimal numbers to fill each index of each vector. Results will print once each index has been filled. The following is an example:
 
 ![image](https://user-images.githubusercontent.com/98712154/178359721-9588bfe5-6662-409b-b36c-8f29d4f2c8e0.png)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
